@@ -1,2 +1,3 @@
 <h2>Mandy Ly</h2>
-https://github.com/minli13/CS-2400
+GitHub Repo: https://github.com/minli13/CS-2400
+Video: https://youtu.be/TJiqTd2IbIs
