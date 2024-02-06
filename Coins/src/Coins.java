@@ -8,7 +8,7 @@ public class Coins {
         float owed = 0;
 
         do {
-            System.out.println("How much change owed in dollars: ");
+            System.out.println("How much change is owed in dollars: ");
             owed = myObj.nextFloat();
         }
         while (owed < 1);
